@@ -26,4 +26,4 @@
 
 ### *I couldn't deploy it, because I'd have required Firestore Blaze plan for the cloud functions to be active online. Even though Google provides the plan for "free", I didn't take the risk.*
 
-#### *N.B.: Card number 424242424242424242 is a dummy card number for testing out payment*
+#### N.B.: Card number 424242424242424242 is a dummy card number for testing out payment
