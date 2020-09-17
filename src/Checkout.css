@@ -1,0 +1,29 @@
+.checkout__ad {
+	width: 100%;
+}
+.checkout {
+	display: flex;
+	padding: 20px;
+	background-color: rgb(240, 240, 222);
+	height: max-content;
+}
+
+.checkout__ad {
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.checkout__title {
+	padding: 10px;
+	font-size: 40px;
+	text-align: center;
+	color: rgb(54, 53, 53);
+	border-bottom: 4px solid rgb(145, 118, 118);
+}
+
+.username {
+	font-size: 30px;
+	color: rgb(75, 29, 29);
+	padding: 10px 0px 0px 10px;
+	text-align: center;
+}

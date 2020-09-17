@@ -1,0 +1,20 @@
+.order {
+	padding: 40px;
+	margin: 20px 0;
+	border: 1px solid whitesmoke;
+	background-color: white;
+	position: relative;
+	border-radius: 40px;
+	box-shadow: 2px 3px 7px 5px rgba(0, 0, 0, 0.3);
+}
+
+.order__id {
+	position: absolute;
+	top: 40px;
+	right: 20px;
+}
+
+.order__total {
+	font-weight: 600;
+	text-align: right;
+}
