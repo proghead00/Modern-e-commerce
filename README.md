@@ -1,7 +1,7 @@
 # Amazon Clone with ReactJS, Stripe, Firebase-Firestore 🐱‍🚀
 ## An Amazon rebuild, made with ReactJS, that has got fully functional sign-in, payment page, order page, order history, adding/removing from cart, payment history, sign-out.
 
-## [See the full demonstration](https://youtu.be/bvBBHe3NjIk )🥟
+## [See the full demonstration](https://youtu.be/bvBBHe3NjIk ) 🥟
 
 ##  🎁 Packages/ Libraries/ Stuff I used:
 * ### Material UI
@@ -12,7 +12,7 @@
 * ### Moment for showing the time of the payment done
 * ### Axios
 
-## Screenshots:
+## 🍂 Screenshots:
 ![2020-09-17 (6)](https://user-images.githubusercontent.com/55017730/93432338-072ee580-f8e3-11ea-8f34-f2cba3dedbf0.png)
 
 ![2020-09-17 (14)](https://user-images.githubusercontent.com/55017730/93432335-05fdb880-f8e3-11ea-82f0-9ecc21ebb615.png)
@@ -26,4 +26,4 @@
 
 ### *I couldn't deploy it, because I'd have required Firestore Blaze plan for the cloud functions to be active online. Even though Google provides the plan for "free", I didn't take the risk.*
 
-### *N.B.: Card number 424242424242424242 is a dummy card number for testing out payment*
+#### *N.B.: Card number 424242424242424242 is a dummy card number for testing out payment*
